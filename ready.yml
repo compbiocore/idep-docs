@@ -1,0 +1,9 @@
+repo: idep-docs
+site_name:        iDEP Container Documentation
+authors:      
+  - name: Andrew Leith
+    github_user: andrew-leith
+repo_url:         https://github.com/compbiocore/idep-docs
+site_description: Documentation for running the iDEP container locally.
+docs_url: https://compbiocore.github.io/idep-docs/
+type: documentation

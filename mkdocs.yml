@@ -1,0 +1,28 @@
+site_name:        iDEP Documentation
+site_author:      Andrew Leith
+repo_url:         https://github.com/compbiocore/idep-docs
+site_description: Documentation for running the containerized version of iDEP.
+site_url: https://compbiocore.github.io/
+
+theme:
+  name: material
+  feature:
+    tabs: false
+  palette:
+    primary: 'blue grey'
+    accent: 'indigo'
+  logo: images/cbc-logo.svg
+
+extra_css:
+  - styles/dark_mode.css
+
+markdown_extensions:
+  - extra
+  - tables
+  - fenced_code
+  - admonition
+  - codehilite
+  - footnotes
+
+nav:
+  - Home: 'index.md'
