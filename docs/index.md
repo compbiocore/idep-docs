@@ -29,7 +29,7 @@ Download and run the file https://raw.githubusercontent.com/compbiocore/idep-doc
 
 Installation of the software may potentially take several hours depending on internet speed.
 
-Once the application is running, simply navigate to https://localhost in a browser window to run the program.
+Once the application is running, simply navigate to `https://localhost` in a browser window to run the program.
 
 Local iDEP without data:
 ------------------------
@@ -38,5 +38,5 @@ Download and run the file https://raw.githubusercontent.com/compbiocore/idep-doc
 
 Installation of the software should only take several minutes.
 
-Once the application is running, simply navigate to https://localhost in a browser window to run the program.
+Once the application is running, simply navigate to `https://localhost` in a browser window to run the program.
 
