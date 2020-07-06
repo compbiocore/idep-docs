@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/github/license/compbiocore/idep-docs)](https://raw.githubusercontent.com/compbiocore/idep-docs/master/LICENSE)
 
 
-## iDEP Documentation
+# iDEP Documentation
 
 # Overview:
 
@@ -22,8 +22,21 @@ Please note that Docker can only be used on a workstation where you have superus
 
 # Instructions:
 
-Download and run the file https://raw.githubusercontent.com/compbiocore/idep-docs/master/run_idep_with_webapp.sh by invoking `bash run_idep_with_webapp.sh` in a terminal window - doing so will automatically pull a Docker image containing the iDEP webapp and data and run it.  Be sure to leave the terminal window open.
+Local iDEP with data:
+---------------------
+
+Download and run the file https://raw.githubusercontent.com/compbiocore/idep-docs/master/run_idep_with_data.sh by invoking `bash run_idep_with_data.sh` in a terminal window - doing so will automatically pull a Docker image containing the iDEP webapp and data and run it.  Be sure to leave the terminal window open.
+
+Installation of the software may potentially take several hours depending on internet speed.
 
 Once the application is running, simply navigate to https://localhost in a browser window to run the program.
 
+Local iDEP without data:
+------------------------
+
+Download and run the file https://raw.githubusercontent.com/compbiocore/idep-docs/master/run_idep_with_webapp.sh by invoking `bash run_idep_with_webapp.sh` in a terminal window - doing so will automatically pull a Docker image containing the iDEP webapp and data and run it.  Be sure to leave the terminal window open.
+
+Installation of the software should only take several minutes.
+
+Once the application is running, simply navigate to https://localhost in a browser window to run the program.
 
