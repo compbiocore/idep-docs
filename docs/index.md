@@ -27,7 +27,7 @@ Preparation:
 
 First, clone the CBC iDEP fork onto your computer:
 
-git clone https://github.com/compbiocore/idep-fork.git
+`git clone https://github.com/compbiocore/idep-fork.git`
 
 Then, navigate to the root directory of the cloned repository and proceed based on which version you which to run.
 
