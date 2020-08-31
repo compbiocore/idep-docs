@@ -22,10 +22,19 @@ Please note that Docker can only be used on a workstation where you have superus
 
 # Instructions:
 
+Preparation:
+------------
+
+First, clone the CBC iDEP fork onto your computer:
+
+git clone https://github.com/compbiocore/idep-fork.git
+
+Then, navigate to the root directory of the cloned repository and proceed based on which version you which to run.
+
 Local iDEP with data:
 ---------------------
 
-Download and run the file https://raw.githubusercontent.com/compbiocore/idep-docs/master/run_idep_with_data.sh by invoking `bash run_idep_with_data.sh` in a terminal window - doing so will automatically pull a Docker image containing the iDEP webapp and data and run it.  Be sure to leave the terminal window open.
+Run the file https://raw.githubusercontent.com/compbiocore/idep-docs/master/run_idep_with_data.sh by invoking `bash run_idep_with_data.sh` in a terminal window - doing so will automatically pull a Docker image containing the iDEP webapp and data and run it.  Be sure to leave the terminal window open.
 
 Installation of the software may potentially take several hours depending on internet speed.
 
@@ -34,7 +43,7 @@ Once the application is running, simply navigate to `https://localhost` in a bro
 Local iDEP without data:
 ------------------------
 
-Download and run the file https://raw.githubusercontent.com/compbiocore/idep-docs/master/run_idep_with_webapp.sh by invoking `bash run_idep_with_webapp.sh` in a terminal window - doing so will automatically pull a Docker image containing the iDEP webapp and data and run it.  Be sure to leave the terminal window open.
+Run the file https://raw.githubusercontent.com/compbiocore/idep-docs/master/run_idep_with_webapp.sh by invoking `bash run_idep_with_webapp.sh` in a terminal window - doing so will automatically pull a Docker image containing the iDEP webapp and data and run it.  Be sure to leave the terminal window open.
 
 Installation of the software should only take several minutes.
 
